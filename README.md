@@ -118,7 +118,7 @@ if len(posts_dict["Title"]) >= 100:
 ## 📊 Final Dataset (csv file saved )
 - Rows: 100 posts (+ header) and Columns: 7
 
-  | Column           | Description           |
+| Column           | Description           |
 | ---------------- | --------------------- |
 | Date             | YYYY-MM-DD            |
 | Post score       | Reddit score          |
